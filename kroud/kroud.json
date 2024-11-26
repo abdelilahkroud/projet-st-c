@@ -1,0 +1,108 @@
+{
+    "formateur": [
+        {
+            "id": 1,
+            "nom": "souini",
+            "prenom": "tayeb",
+            "type": "formateur",
+            "img": "./images/tayeb.svg"
+        },
+        {
+            "id": 2,
+            "nom": "said",
+            "prenom": "aabilla",
+            "type": "formateur",
+            "img": "./images/said.svg"
+        },
+        {
+            "id": 3,
+            "nom": "abdelhafid",
+            "prenom": "belfkir",
+            "type": "formateur",
+            "img": "./images/belfkir.svg"
+        }
+    ],
+    "Admin": [
+        {
+            "id": 1,
+            "nom": "zainab",
+            "prenom": "ousouss",
+            "type": "Admin",
+            "img": "./images/zainab.svg"
+        }
+    ],
+    "CME": [
+        {
+            "id": 1,
+            "nom": "fatima",
+            "prenom": "",
+            "type": "CME",
+            "img": "./images/fati.svg"
+        },
+        {
+            "id": 2,
+            "nom": "fouzia",
+            "prenom": "balibla",
+            "type": "CME",
+            "img": "./images/fouzia.svg"
+        }
+    ],
+    "apprenant": [
+        {
+            "id": 1,
+            "nom": "abdelkabir",
+            "prenom": "hadoui",
+            "type": "apprenant",
+            "img": "./images/hadoui.svg"
+        },
+        {
+            "id": 2,
+            "nom": "abdelhak",
+            "prenom": "elghandour",
+            "type": "apprenant",
+            "img": "./images/ghandour.svg"
+        },
+        {
+            "id": 3,
+            "nom": "wassim",
+            "prenom": "oucouc",
+            "type": "apprenant",
+            "img": "./images/wassim.svg"
+        },
+        {
+            "id": 4,
+            "nom": "salma",
+            "prenom": "mtargi",
+            "type": "apprenant",
+            "img": "./images/salma.svg"
+        },
+        {
+            "id": 5,
+            "nom": "ayoub ",
+            "prenom": "benmansour",
+            "type": "apprenant",
+            "img": "./images/ayoub.svg"
+        },
+        {
+            "id": 6,
+            "nom": "abir",
+            "prenom": "maskini",
+            "type": "apprenant",
+            "img": "./images/abir.svg"
+        },
+        {
+            "id": 7,
+            "nom": "abdelah",
+            "prenom": "addar",
+            "type": "apprenante",
+            "img": "./images/addar.svg"
+        },
+        {
+            "id": 8,
+            "nom": "younes",
+            "prenom": "kamal",
+            "type": "apprenante",
+            "img": "./images/kamal.svg"
+        }
+    ]
+}
